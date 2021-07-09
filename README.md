@@ -1,6 +1,6 @@
-# hello-world
+# hello- phyton world
 
 Hola Carlos!
 
-Si bien entiendo esto es una breve descripcion de lo que es mi primer repositorio llamado hello-world
+breve descripcion para el repositorio para desarrollo en python llamado hello-world-python
 aunque podriamos llamarlo Hola mundo. :)
