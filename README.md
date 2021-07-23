@@ -8,8 +8,3 @@ aunque podriamos llamarlo Hola mundo. :)
 
 This is a short description repository for develop software in python called hello-world-python
 but we can call it Hola mundo. :)
-def functionx () :
-	return{
-	if():
-	True
-	} 
